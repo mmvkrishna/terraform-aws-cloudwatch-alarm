@@ -1,2 +1,1 @@
-# terraform-aws-cloudwatch-alarm
-This Module is to Create CloudWatch Alarms in AWS using Terraform
+# terraform-aws-cloudwatch-loggroup-logstream
